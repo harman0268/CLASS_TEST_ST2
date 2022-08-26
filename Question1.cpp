@@ -1,4 +1,7 @@
 //Write the C++ program to print all the non-repeated numbers in an array in minimum time complexity.??
+//NAME= HARMANJOT SINGH
+//ROLL NO.= 2010990268
+//SET NO.= 01
 #include <bits/stdc++.h>
 
 using namespace std;

@@ -1,4 +1,7 @@
 //Write a C++ program to print all the repeated numbers with their frequency in an array in minimum time complexity.??
+//NAME= HARMANJOT SINGH
+//ROLL NO.= 2010990268
+//SET NO.= 01
 #include <bits/stdc++.h>
 using namespace std;
 
